@@ -11,4 +11,4 @@ This is a CryptoCurrency tracking IOS application made with React-Native.
 
 ## Project ScreenShots
 
-![]()
+![](images/first-app-photo.png)
